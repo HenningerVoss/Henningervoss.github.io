@@ -53,21 +53,21 @@ Alexander Dusseau, Rishan Abhishek;  Directed Reading Program 2025-2026; Joint w
 
 ## Publications
 
-“Sum Index and Difference Index of Graphs”; Harrington et. al.; Discrete Applied Mathematics, Volume 325, 2023, 262-283
+Harrington et. al., *Sum Index and Difference Index of Graphs*, Discrete Applied Mathematics **325** (2023), 262-283
 
-“Frequently Asked Questions about Pennsylvania's Educational Improvement Tax Credit (EITC) and Vouchers for Private and Religious Schools”; Susan Spica and Eugene Henninger-Voss; Keystone Research Center, 2022
+Susan Spica and Eugene Henninger-Voss, *Frequently Asked Questions about Pennsylvania's Educational Improvement Tax Credit (EITC) and Vouchers for Private and Religious Schools*, Keystone Research Center, 2022
 
-“Its Time to Reinstate the Philadelphia Intangible Wealth Tax”; Marc Stier and Eugene Henninger-Voss; Pennsylvania Budget and Policy Center 2022
+Marc Stier and Eugene Henninger-Voss, *Its Time to Reinstate the Philadelphia Intangible Wealth*, Pennsylvania Budget and Policy Center, 2022
 
-“Economic, Racial, and Ethnic Inequality in Pennsylvania School Funding”; Stier et. Al; Pennsylvania Budget and Policy Center 2021
+Stier et. Al; *Economic, Racial, and Ethnic Inequality in Pennsylvania School Funding*, Pennsylvania Budget and Policy Center, 2021.
 
-“Uncovering Pennsylvania’s School Funding Disparity by Income”; Eugene Henninger-Voss; Keystone Research Center, 2021
+Eugene Henninger-Voss, *Uncovering Pennsylvania’s School Funding Disparity by Income*, Keystone Research Center, 2021.
 
-“Pennsylvania Distributes Emergency K-12 School Funding Backwards--The Fewest Dollars Go to School Districts with the Greatest Need”; Diana Polson and Eugene Henninger-Voss; Pennsylvania Budget and Policy Center 2020
+Diana Polson and Eugene Henninger-Voss, *Pennsylvania Distributes Emergency K-12 School Funding Backwards--The Fewest Dollars Go to School Districts with the Greatest Need*, Pennsylvania Budget and Policy Center, 2020.
 
-“Locating the Representational Baseline: Republicans in Massachusetts”; Duchin et. al; Election Law Journal, Volume 18, Number 4, 2019, 388-401
+Duchin et. Al, *Locating the Representational Baseline: Republicans in Massachusetts*, Election Law Journal **18** (2019), 4, 388-401.
 
-“Pennsylvania Higher Education at a Crossroads: To Boost Opportunity and Growth, Pennsylvania Needs to Invest in Higher Education”; Eugene Henninger-Voss and Stephen Herzenberg; Keystone Research Center, August 2017
+Eugene Henninger-Voss and Stephen Herzenberg, *Pennsylvania Higher Education at a Crossroads: To Boost Opportunity and Growth, Pennsylvania Needs to Invest in Higher Education*, Keystone Research Cente,  2017.
 
 
 ## Presentations

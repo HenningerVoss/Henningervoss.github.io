@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CV"
+permalink: /cv
+---
+
 # Eugene Henninger-Voss
 
 ehenningervoss@gmail.com

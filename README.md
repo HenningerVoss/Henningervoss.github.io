@@ -1,12 +1,9 @@
-# Henningervoss.github.io
-Toy website.
+# Eugene Henninger-Voss
 
-We'll see how well this works.
+I am a fourth year PhD student at the Pennsylvania State University studying algebraic geometry under Jack Huizenga. 
 
-Can I make code blocks?
+My thesis studies ample and globally genereatd vector bundles.
 
-```{python}
-Is this a code block?
-```
+I am interested in geometric approaches to data, data analysis, machine learning, as well as applications of mathematics to economics and the social sciences. 
 
-Thanks for now!
+You can find my resume and my CV.  

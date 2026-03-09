@@ -1,3 +1,7 @@
+layout: page
+title: "Resume"
+permalink: /resume
+
 # Eugene Henninger-Voss
  Contact: ehenningervoss@gmail.com
 

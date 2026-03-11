@@ -95,7 +95,14 @@ Eugene Henninger-Voss and Stephen Herzenberg, *Pennsylvania Higher Education at 
 ## Languages:
 
 *Natural*: Portuguese (conversational); German (basic)
+
 *Computer*: Python; C++
+
+## Leadership and Mentor Roles:
+*Undergraduate*: Co-President of Tufts Unitarian Universalists, Treasurer then Co-President of Pep Band, Treasurer then President of Math Society 
+
+*Graduate*: Treasurer and instructor for Tango Club and Swing Dance Club, led undergraduates as part of the Directed Reading Program
+
 
 ## Other:
 

@@ -5,6 +5,7 @@ permalink: /resume
 ---
 
 # Eugene Henninger-Voss
+
  Contact: ehenningervoss@gmail.com
 
 ## Education
@@ -14,6 +15,7 @@ permalink: /resume
 -	PhD in Mathematics under Jack Huizenga studying Algebraic Geometry
 
 ### Tufts University, Medford, MA; 2017-2021
+
 -	Major in Mathematics, minors in German and Linguistics
 -	Additional Relevant Courses: Computation Theory, Mathematical Cryptography, Mathematical Aspects of Data Analysis, Topological Data Analysis, Graph Theory, Network Science, Algorithms
 -	Honors: Guterman Award (2018); Phi Beta Kappa (2020), Dean’s List (all semesters), graduated summa cum laude with a senior thesis with honors.
@@ -26,7 +28,9 @@ Tufts 1+4 (in Brazil) 2016-2017
 ### Graduate Teaching Assistant, Pennsylvania State University, State College, PA; 2022- Present
 
 MATH 22 College Algebra II: Spring 2023, Fall 2023, Fall 2024
+
 MATH 31 Math of Music: Fall 2025, Spring 2026
+
 -	Primary instructor, teaching 50-100 students per semester without assistants
 -	Lectured; graded and wrote quizzes; graded exams
 -	Created Canvas pages, course notes, and supplementary course materials
@@ -37,6 +41,7 @@ MATH 31 Math of Music: Fall 2025, Spring 2026
 ### Assistant Course Coordinator, Pennsylvania State University, State College, PA; Fall 2024-Spring 2025
 
 MATH 22 College Algebra II
+
 -	Coordinated instructors, lecture content and course materials
 -	Oversaw grading
 -	Mentored new instructors
@@ -99,6 +104,7 @@ Eugene Henninger-Voss and Stephen Herzenberg, *Pennsylvania Higher Education at 
 *Computer*: Python; C++
 
 ## Leadership and Mentor Roles:
+
 *Undergraduate*: Co-President of Tufts Unitarian Universalists, Treasurer then Co-President of Pep Band, Treasurer then President of Math Society 
 
 *Graduate*: Treasurer and instructor for Tango Club and Swing Dance Club, led undergraduates as part of the Directed Reading Program

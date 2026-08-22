@@ -1,6 +1,6 @@
 # Eugene Henninger-Voss
 
-I am a fourth year PhD student at the Pennsylvania State University studying algebraic geometry under Jack Huizenga. 
+I am a fifth year PhD student at the Pennsylvania State University studying algebraic geometry under Jack Huizenga. 
 
 My thesis studies ample and globally generated vector bundles.
 

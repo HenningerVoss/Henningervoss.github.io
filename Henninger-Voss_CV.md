@@ -32,19 +32,22 @@ Honors: Guterman Award (2018); Phi Beta Kappa (2020), Dean’s List (all semeste
 *Graduate Teaching Assistant*, Pennsylvania State University, 2022- Present
 	MATH 22 College Algebra II: Spring 2023, Fall 2023, Fall 2024
 	MATH 31 Math of Music: Fall 2025, Spring 2026
+	MATH 140 Calculus with Analytic Geometry: Fall 2026
 
-*Assistant Course Coordinator*, Pennsylvania State University, Fall 2024-Spring 2025
+*Research and Development Engineer Intern*, Applied Research Laboratory; Summer 2026
+
+*Assistant Course Coordinator*, Pennsylvania State University; Fall 2024-Spring 2025
 	MATH 22 College Algebra II
 
 *Research Associate*, Keystone Research Center; 2021-2022
 
 *Research Associate*, Keystone Research Center; Winternship 2020
 
-*Research Fellow*; Moravian Research Experience for Undergraduates; 2019 Summer
+*Research Fellow*; Moravian Research Experience for Undergraduates; Summer 2019
 
-*Research Fellow*; Voting Rights Data Institute; 2018 Summer
+*Research Fellow*; Voting Rights Data Institute; Summer 2018
 
-*Research Intern*; Keystone Research Center; 2017 May-August
+*Research Intern*; Keystone Research Center; May-August 2017
 
 
 ## Service

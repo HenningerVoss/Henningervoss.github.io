@@ -31,12 +31,20 @@ MATH 22 College Algebra II: Spring 2023, Fall 2023, Fall 2024
 
 MATH 31 Math of Music: Fall 2025, Spring 2026
 
+MATH 140 Calculus with Analytic Geometry I: Fall 2026
+
 -	Primary instructor, teaching 50-100 students per semester without assistants
 -	Lectured; graded and wrote quizzes; graded exams
 -	Created Canvas pages, course notes, and supplementary course materials
 -	Accessibility Project Team (Spring 2026)
     - Responsible for making documents used in math courses (lecture notes, homeworks, worksheets, etc) meet accessibility standards
     - Wrote a combination of Python scripts and AI agents (Claude Code) to convert files into more accessible formats
+ 
+### Research and Development Engineer Intern, Applied Research Laboratory, State College, PA; Summer 2026
+-	Used mathematics to analyze and guide development of machine learning
+-	Developed theory for improvements, implemented as code, and rigorously assessed
+-	Doubled speed of validation; improved training speed by ~30%; decreased validation loss by 2/3
+
 
 ### Assistant Course Coordinator, Pennsylvania State University, State College, PA; Fall 2024-Spring 2025
 

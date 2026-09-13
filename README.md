@@ -3,7 +3,6 @@
 # Eugene Henninger-Voss
 
 <img src="Bucket_hat_headshot.jpg" alt="Me, in a bucket hat" width="200"/>
-![Me, in a bucket hat]
 
 I am a fifth year PhD student at the Pennsylvania State University studying algebraic geometry under Jack Huizenga. 
 

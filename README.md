@@ -10,4 +10,4 @@ My thesis studies ample and globally generated vector bundles.
 
 I am interested in geometric approaches to data, data analysis, and machine learning, as well as applications of mathematics to economics, finance, and the social sciences. 
 
-Here you can find my [resumé](/resume) and my [CV](/cv).  
+Here you can find my [resumé](/technical) and my [CV](/cv).  
